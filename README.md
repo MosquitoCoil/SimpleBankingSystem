@@ -20,17 +20,17 @@ information.
   <img src="Simple Banking System Screenshot/Main page.png" width="313" />
   <b>Create Account Page</b><br/>
   <img src="Simple Banking System Screenshot/Create Account.png" width="399" />
-  <p>Account Created!</p>
-  <img src="Simple Banking System Screenshot/Account Created!.png" width="313" />
+  <p>Account Created!</p><br/>
+  <img src="Simple Banking System Screenshot/Account created!.png" width="313" />
   <b>Deposit & Withdraw Page</b><br/>
   <img src="Simple Banking System Screenshot/Deposit_Withdraw.png" width="399" />
-  <p>Deposit Successfully!</p>
+  <p>Deposit Successfully!</p><br/>
   <img src="Simple Banking System Screenshot/Deposit_Successfully.png" width="399" />
-  <p>Withdraw Successfully!</p>
+  <p>Withdraw Successfully!</p><br/>
   <img src="Simple Banking System Screenshot/Withdraw_Successfully.png" width="399" />
   <b>Check Balance Page</b><br/>
   <img src="Simple Banking System Screenshot/Check Balance.png" width="399" />
-  <p>Check Balance Successfully!</p>
+  <p>Check Balance Successfully!</p><br/>
   <img src="Simple Banking System Screenshot/Check Balance_Successfully.png" width="399" />
 </details>
 
